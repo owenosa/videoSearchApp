@@ -1,0 +1,25 @@
+p{
+    color: white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.search-bar.ui.segment{
+    background-color: rgba(32, 33, 36, 1);
+    border: 1px solid rgba(98, 100, 105, 0.5);
+}
+.search-bar.ui.segment label{
+    color: white;
+}
+
+.ui.segment{
+    background-color: rgba(32, 33, 36, 1);
+    border: 1px solid rgba(98, 100, 105, 0.5);
+}
+
+.ui.segment h4{
+    color: white;
+}
